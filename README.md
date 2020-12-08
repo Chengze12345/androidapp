@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Link to Video Walkthrough](https://www.dropbox.com/h?preview=Android+Emulator+-+Pixel_2_API_30_5554+2020-12-04+18-50-02.mp4)
+[Link to Video Walkthrough](https://www.dropbox.com/s/nsyy50co8wphm3v/Android%20Emulator%20-%20Pixel_2_API_30_5554%202020-12-04%2018-50-02.mp4?dl=0)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

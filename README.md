@@ -46,11 +46,11 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [In my perspective, `ArrayAdapter` is like sockets to allow me link different function to present. I think it is important because Through a different Adapter, I can easily present the data and implement a variety of custom effectsThe Convertview is to solve the problem of GetView in. When the listView has many items, it needs to be continuously loaded, which will lead to slow running of the system and waste. Therefore, the recycle mechanism is invoked.].
+**Answer:** [In my perspective, `ArrayAdapter` is like sockets to allow me link different function to present. I think it is important because Through a different Adapter, I can easily present the data and implement a variety of custom effectsThe Convertview is to solve the problem of GetView in. When the listView has many items, it needs to be continuously loaded, which will lead to slow running of the system and waste. Therefore, the recycle mechanism is invoked].
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Java is really hard for me. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
